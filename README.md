@@ -10,33 +10,20 @@
 
 ---
 
+## Purpose
+
+This repository is not just a mirror of submissions — **it’s a record of consistency and effort**. Every commit reflects hours of practice, debugging, and refinement in pursuit of mastery in **Data Structures & Algorithms**.
+
+It’s a daily grind: **solving problems**, **learning patterns**, and **building resilience**. The goal is not only to solve but to grow sharper with each attempt.
+
+---
+
 ## How GitHub Sync works
 
 1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
 2. **Auto-commit** — every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
 3. **Bulk Sync** — push all your past solutions at once from the GitHub settings page.
 4. **Manual sync** — from the submission history panel on any problem page, sync or remove individual submissions.
-
----
-
-## Repository structure
-
-Solutions are organized by topic folder, then problem ID. Each submission is stored as a separate file:
-
-```
-<topic-folder>/
-  <problem-id>/
-    submission-0.<ext>   ← first submission
-    submission-1.<ext>   ← second submission
-    ...
-```
-
-**Example:**
-```
-Data Structures & Algorithms/two-integer-sum/submission-0.py
-Data Structures & Algorithms/binary-search/submission-0.ts
-Python For Beginners/python-hello-world/submission-0.py
-```
 
 ---
 
@@ -55,6 +42,26 @@ Python For Beginners/python-hello-world/submission-0.py
 | Kotlin | `.kt` |
 | Swift | `.swift` |
 | SQL | `.sql` |
+
+---
+
+## Why This Matters?
+
+1. **Consistency over hype** → every commit is proof of steady effort.
+
+2. **Iteration over shortcuts** → multiple submissions show refinement, not just completion.
+
+3. **Growth mindset** → each solution is a step toward deeper understanding, not just passing tests.
+
+---
+
+## Work Ethic in Action
+
+This repo is a **mirror of discipline**:
+
+- Daily grind of solving problems.
+- Documented progress that recruiters and peers can track.
+- A commitment to learning that goes beyond “just solving” — it’s about **building resilience and mastery**.
 
 ---
 
